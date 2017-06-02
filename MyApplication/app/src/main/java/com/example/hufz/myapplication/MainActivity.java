@@ -70,7 +70,7 @@ public class MainActivity extends Activity {
 //                        mview.setBackgroundColor(0xff7f7f7f);
 //                    }
                     if(num>=7){//////WHITE
-                        Time_set1 = 8000;////////延时看似无效果？？？
+                        Time_set1 = 8000;////////延时看似无效果？？？参数无效，直接改回了数值输入。。
                         Time_set2 = 5000;
 
 //                        image.setVisibility(View.VISIBLE);

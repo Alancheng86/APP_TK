@@ -7,3 +7,9 @@
 /build
 /captures
 .externalNativeBuild
+
+.zip
+.rar
+.7z
+
+
